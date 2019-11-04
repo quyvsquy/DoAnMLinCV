@@ -21,7 +21,7 @@
      
 # Để đo độ chính xác của models đã tạo được ở trên
   `python3 test.py A B C` \
-  Ví dụ: \   
+  Ví dụ:    
   `python3 test.py ../Models/ ../ModelsPD/20180402-114759.pb GaussianNB` \
   Trong đó: 
   
@@ -31,7 +31,7 @@
   | B | Là đường dẫn đến models mạng ... |
   | C | Là tên phương pháp máy học muốn đặt tên |
   
-  Khi chạy file này thì sẽ xuất hiện thư mục tempLuu. Trong thư mục chứ các file sau: \
+  Khi chạy file này thì sẽ xuất hiện thư mục tempLuu. Trong thư mục chứ các file sau: 
   
   | Command | Description |
   | --- | --- |
@@ -43,7 +43,7 @@
   `python3 GetHtml.py --u A --p B --l C` \
   Ví dụ: \
   `python3 GetHtml.py --u 17521234 --p 123456789 -- l ../DataSet/FaceData/Nguyen.jpg` \
-  Trong đó: \
+  Trong đó: 
   
   | Command | Description |
   | --- | --- |
