@@ -5,7 +5,6 @@
   `python3 classifierDaSua.py ../DataSet/FaceData/processed/ ../ModelsPD/20180402-114759.pb ../Models/facePKL` \
   Trong đó: 
   
-  | Command | Description |
   | --- | --- |
   | A | Là đường dẫn đến thư mục chứa dataset đã xử lý |
   | B | Là đường dẫn đến models mạng ... |
