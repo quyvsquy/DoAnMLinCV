@@ -4,6 +4,7 @@
   Ví dụ:\
   `python3 classifierDaSua.py ../DataSet/FaceData/processed/ ../ModelsPD/20180402-114759.pb ../Models/facePKL` \
   Trong đó: 
+  
   | Command | Description |
   | --- | --- |
   | A | Là đường dẫn đến thư mục chứa dataset đã xử lý |
@@ -11,6 +12,7 @@
   | C | Là đường đẫn đến nơi lưu models đã học được |
   
   Khi chạy file này thì sẽ xuất hiện thư mục tempLuu. Trong thư mục chứ các file sau: \
+  
   | Command | Description |
   | --- | --- |
   | A | Là đường dẫn đến thư mục chứa dataset đã xử lý |
@@ -22,6 +24,7 @@
   Ví dụ: \   
   `python3 test.py ../Models/ ../ModelsPD/20180402-114759.pb GaussianNB` \
   Trong đó: 
+  
   | Command | Description |
   | --- | --- |
   | A | Là đường dẫn đến thư mục chưa models đã học được |
@@ -29,6 +32,7 @@
   | C | Là tên phương pháp máy học muốn đặt tên |
   
   Khi chạy file này thì sẽ xuất hiện thư mục tempLuu. Trong thư mục chứ các file sau: \
+  
   | Command | Description |
   | --- | --- |
   | A | Là đường dẫn đến thư mục chứa dataset đã xử lý |
@@ -40,6 +44,7 @@
   Ví dụ: \
   `python3 GetHtml.py --u 17521234 --p 123456789 -- l ../DataSet/FaceData/Nguyen.jpg` \
   Trong đó: \
+  
   | Command | Description |
   | --- | --- |
   | --u A | A là username đăng nhập đrl có (có quyền bí thư / lớp trưởng) |
