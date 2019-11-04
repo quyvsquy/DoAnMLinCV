@@ -1,0 +1,223 @@
+1.1.1 Không vi phạm quy chế  15
+1.1.2 Vi phạm quy chế -5
+1.2.1 Cuộc thi Đấu trường IT 10 3
+1.2.2 MMT_TT_Tham gia cuộc thi UIT Hacking Contest - R Season 2019 - Round 1 10 5
+1.2.3 Tham gia cuộc thi học thuật NET Challenge 2019 10
+1.2.4 Tham gia cuộc thi học thuật ngoài trường 3
+1.2.5 Tham gia Olympic Toán toàn quốc 10
+1.2.6 [KHMT] Cuộc thi lập trình thuật toán ACM X (DS BTC, CTV) 10
+1.2.7 [KHMT] Cuộc thi lập trình thuật toán ACM X (DSSV tham gia) 10
+1.2.8 [KTMT] Tham gia cuộc thi học thuật AMO 2019 10
+1.2.9 [KTMT] Tham gia cuộc thi UIT CAR RACING 2019 10
+1.2.10 [KTMT] Đạt giải cuộc thi học thuật AMO 2019 15
+1.2.11 [KTMT] Đạt giải cuộc thi UIT CAR RACING 2019 15
+1.2.12 [MMT&TT] Cuộc thi Tin học văn phòng NetSec MOS 5.2019 (DS BTC,CTV) 10
+1.2.13 [MMT&TT] Cuộc thi Tin học văn phòng NetSec MOS 5.2019 (DSSV Tham gia) 10
+1.2.14 [Web] Cuộc thi WebDevHackathon 2019 (DS BTC,CTV) 10
+1.2.15 [Web] Cuộc thi WebDevHackathon 2019 (DSSV tham gia) 10
+1.2.16 Đạt giải cuộc thi học thuật NET Challenge 2019 15
+1.2.17 Đạt giải Olympic Toán toàn quốc 20
+1.3.1 Danh sách SV có điểm HK2 cao hơn HK1 5
+1.4.1 Tham gia buổi nói chuyện giới thiệu chương trình ACTS (Phòng QHĐN tổ chức) 3
+1.4.2 [SEMINAR]_Định hướng nghề nghiệp - Thiết Kế Vi Mạch 3
+1.5.1 -Tham gia hội thảo NET Talk trong ngày hội NET Day 2019 3
+1.5.2 BHT  CNPM_Trainning Giữa HK2 năm học 2018 - 2019 môn CTDL và GT_Tham Gia 3
+1.5.3 BHT  CNPM_Trainning Giữa HK2 năm học 2018 - 2019 môn CTRR_Tham Gia 3
+1.5.4 BHT  CNPM_Trainning Giữa HK2 năm học 2018 - 2019 môn HĐH_Tham Gia 3
+1.5.5 BHT  CNPM_Trainning Giữa HK2 năm học 2018 - 2019_BTC 3
+1.5.6 Fujinet tour ngay 16.5.2019 3
+1.5.7 MMT_TT_Danh sách tham gia Seminar NCKH lần 01 ngày 25_02_2019 3
+1.5.8 MMT_TT_Tham dự Seminar Seminar AI and Cyber Security_s Change._ 3
+1.5.9 Seminar về Lập trình Game 3
+1.5.10 Seminar: Chia sẽ định hướng sinh viên ngành An toàn Thông tin 3
+1.5.11 Tham gia Hội thảo NET Share trong ngày hội NET Day 2019 3
+1.5.12 THAM GIA SEMINAR OEP tổ chức NGÀY 19/4/2019 3
+1.5.13 THAM GIA SEMINAR OEP tổ chức NGÀY 6/3/2019 3
+1.5.14 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Cấu trúc dữ liệu & Giải thuật 3
+1.5.15 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Cấu trúc dữ liệu & Giải thuật 3
+1.5.16 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Cấu trúc rời rạc 3
+1.5.17 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Cấu trúc rời rạc 3
+1.5.18 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Hệ điều hành 3
+1.5.19 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Hệ điều hành 3
+1.5.20 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Lập trình hướng đối tượng 3
+1.5.21 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Lập trình hướng đối tượng 3
+1.5.22 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Xác suất thống kê 3
+1.5.23 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Xác suất thống kê 3
+1.5.24 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Đặc tả hình thức 3 
+1.5.25 [BHT CNPM] - Training cuối kỳ II 2018-2019 môn Đặc tả hình thức 3 
+1.5.26 [HTTT] BHT-HTTT-DS_Tham_Du_Training_CK_HK2 2018-2019 3 
+1.5.27 [HTTT] Training GK HK2 2018-2019 3 
+1.5.28 [KH&KTTT - BHT CNTT] TRAINING CUỐI KỲ II - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT (07/06/2019) 3 
+1.5.29 [KH&KTTT - BHT CNTT] TRAINING CUỐI KỲ II - CẤU TRÚC RỜI RẠC (11/06/2019) 3 
+1.5.30 [KH&KTTT - BHT CNTT] TRAINING CUỐI KỲ II - HỆ ĐIỀU HÀNH (12/06/2019) 3 
+1.5.31 [KH&KTTT - BHT CNTT] TRAINING CUỐI KỲ II - LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG (12/06/2019) 3 
+1.5.32 [KH&KTTT - BHT CNTT] TRAINING CUỐI KỲ II - NHẬP MÔN MẠCH SỐ (08/06/2019) 3 
+1.5.33 [KH&KTTT - BHT CNTT] TRAINING GIỮA KỲ I - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT (04/04/2019)  3 
+1.5.34 [KH&KTTT - BHT CNTT] TRAINING GIỮA KỲ I - CẤU TRÚC RỜI RẠC (06/04/2019)  3 
+1.5.35 [KH&KTTT - BHT CNTT] TRAINING GIỮA KỲ I - HỆ ĐIỀU HÀNH (04/04/2019) 3 
+1.5.36 [KH&KTTT - BHT CNTT] TRAINING GIỮA KỲ I - NHẬP MÔN MẠCH SỐ (05/04/2019)  3 
+1.5.37 [KH&KTTT - BHT CNTT] TRAINING GIỮA KỲ I - XÁC SUẤT THỐNG KÊ (04/04/2019)  3 
+1.5.38 [KTMT] Phụ trách training cuối học kỳ 3 
+1.5.39 [MMT&TT] Thi thử TOEIC NetSec Toeic Test 06.2019 (DSSV Tham gia) 3 
+1.5.40 [MMT&TT] Training cuối ký ATCL2017 (DS BTC,CTV) 3 
+1.5.41 [MMT&TT] Training cuối ký ATCL2017 (DSSV Tham gia) 3 
+1.5.42 [Serminar học thuật KTMT] Cách viết thuyết minh đề tài NCKH - SV 3 
+1.6.1 Điểm TBHK từ 5.00 đến dưới 6.00 4 
+1.6.2 Điểm TBHK từ 6.00 đến dưới 7.00 6 
+1.6.3 Điểm TBHK từ 7.00 đến dưới 8.00 8
+1.6.4 Điểm TBHK từ 8.00 đến dưới 9.00 10 
+1.6.5 Điểm TBHK từ 9.00 trở lên 12 
+1.7.1 [BAIT] Danh sách thành viên BAIT HKII 2018-2019 5 
+1.7.2 [OEC] Danh sách thành viên HK2 2018-2019 5 
+1.7.3 [Web] Danh sách thành viên HKII 2018-2019 5
+2.1.1 [] 
+2.2.1 ATCL2017-ATCL-Họp xét đánh giá ĐRL Sinh viên học kỳ 1 - năm học 2018-2019 2  2 
+2.2.2 Họp lớp định kì tháng 5-2019 2 
+2.2.3 HTTT2015-XÉT ĐIỂM RÈN LUYỆN 2 
+2.2.4 HTTT2016 - Họp lớp xét điểm rèn luyện học kỳ 1 năm học 2018 - 2019 2 
+2.2.5 KHMT2016-Họp lớp xét ĐRL HK1 năm học 2018 - 2019 2 
+2.2.6 KTPM2016 - Họp lớp lần 1 HK2 2018-2019 2 
+2.2.7 MTCL2018.3 - Họp lớp xét ĐRL 2 
+2.3.1 []
+2.4.1 Chấp hành nội quy 20
+2.4.2 Vi phạm nội quy -5 
+2.5.1 Không tham gia thi -5 
+2.5.2 Đạt yêu cầu 10 
+2.6.1 Danh sách sinh viên không tham gia BHYT (https://forum.uit.edu.vn/node/535881) -5 
+2.6.2 Danh sách sinh viên tham gia BHYT (https://forum.uit.edu.vn/node/535881) 10
+2.7.1 []
+2.8.1 []
+2.9.1 Thực hiện khảo sát <50% đánh giá môn học 0 
+2.9.2 Thực hiện khảo sát >80% đánh giá môn học 8
+2.9.3 Thực hiện khảo sát từ 50%-<80% đánh giá môn học 4 
+3.1.1 Hội viên hoàn thành nhiệm vụ 8
+3.1.2 Là đoàn viên hoàn thành nhiệm 8
+3.2.1 CTV hỗ trợ Hội thao ĐHQG-HCM năm 2019 7 
+3.2.2 CTV tổ chức UIT Sport 2019 (môn cờ vua, cờ tướng, cầu lông, bóng bàn) 10 
+3.2.3 Tham gia Hội thao ĐHQG-HCM 2019 7 
+3.2.4 Tham gia UIT Sport 2019 (môn cờ vua, cờ tướng, cầu lông, bóng bàn) 5 
+3.2.5 Đạt giải Hội thao ĐHQG-HCM năm 2019 10 
+3.2.6 Đạt giải UIT Sport 2019 (môn cờ vua, cờ tướng, cầu lông, bóng bàn) 10 
+3.3.1 Thành viên CLB Bóng chuyền 5 
+3.3.2 Thành viên CLB bóng đá 5 
+3.3.3 [BC] Danh sách thành viên CLB Bóng chuyền UIT 5 
+3.3.4 [Bóng Bàn] Danh sách thành viên CLB HK2 2018-2019 5 
+3.3.5 [CEEC] Thành viên CLB CEEC 5 
+3.3.6 [LossLess] - Danh Sách Thành Viên HK2 2018-2019 5 
+3.3.7 [UMA] Danh sách thành viên CLB HKII 2018-2019 5 
+3.4.1 -Hội nghị sinh viên khoa CNPM 5 
+3.4.2 ATCL2017-Chào mừng Ngày Quốc tế Phụ nữ 8/3 5
+3.4.3 ATCL2017-Kỷ niệm 129 năm ngày sinh Chủ tịch Hồ Chí Minh 5
+3.4.4 CNPM_Tập Huấn CBĐH_01-06-2019_KDL Bọ Cạp Vàng 5 
+3.4.5 CNPM_Tình Nguyện UP 2019_BTC_03-2019_TPHCM-Tây Ninh 5 
+3.4.6 CNPM_Tình Nguyện UP 2019_Tham Gia_03-2019_TPHCM-Tây Ninh 5 
+3.4.7 TMĐT2018-Hoạt động 08/03 5 
+3.4.8 [BAIT] BTC, CTV Hội sách “Trạm dừng tri thức 2019” 5 
+3.4.9 [BAIT] DS Tham gia lễ kỷ niệm 08/03 5 
+3.4.10 [BAIT] DSSV Quyên góp Hội sách “Trạm dừng tri thức 2019” 5 
+3.4.11 [CTXH] TraiGiuLua_08062019_VungTau 5 
+3.4.12 [KH&KTTT] Chào mừng ngày quốc tế phụ nữ 08/03 5 
+3.4.13 [KH&KTTT] Cuộc thi Thiết kế logo và áo khoa 5 
+3.4.14 [KH&KTTT] Viếng nghĩa trang liệt sĩ 19-04-2019 5 
+3.4.15 [KHMT2016] Họp mặt chào mừng ngày Quốc tế Phụ nữ 8/3 5 
+3.4.16 [KTMT] Ban tổ chức chương trình CE CARE 2019 5 
+3.4.17 [KTMT] Ban tổ chức, Cộng tác viên CE SPORT 2019 7 
+3.4.18 [KTMT] Hội nghị Sinh viên cấp Khoa 5 
+3.4.19 [KTMT] Tham gia giải bóng đá - CE SPORT 2019 5 
+3.4.20 [KTMT] Tham gia giải thể thao điện tử - CE SPORT 2019 5 
+3.4.21 [KTMT] Tham gia hội thao dân gian - CE SPORT 2019 5 
+3.4.22 [KTMT] Tham gia Ngày hội Truyền thống Khoa Kỹ thuật Máy tính CE DAY 2019 5 
+3.4.23 [MMT&TT] Cuộc thi Đấu trường Caro (DS BTC,CTV) 5 
+3.4.24 [MMT&TT] Cuộc thi Đấu trường Caro (DSSV Tham gia) 5 
+3.4.25 [MMT&TT] Giải thể thao NetSec Championship (DS BTC,CTV) 5 
+3.4.26 [MMT&TT] Giải thể thao NetSec Championship Bóng đá (DSSV Tham gia) 5 
+3.4.27 [MMT&TT] Giải thể thao NetSec Championship Liên quân (DSSV Tham gia) 5 
+3.4.28 [MMT&TT] Giải thể thao NetSec Championship PUBG mobile (DSSV Tham gia) 5 
+3.4.29 [OEP] Tham gia hội thao OEP 2019 5 
+3.4.30 [UMA] DS Tham_gia_Thử thách UMAer_Lan1_Chinh_Phục_Núi_Bà Đen 5 
+3.4.31 [UMA] Sinh nhật UMA 5 
+3.4.32 [UMA] Tất niên UMA 5 
+3.4.33 [Web] Hội trại CLB Web (DSSV tham gia) 5 
+3.5.1 Danh sách sinh viên khuyết tật 10 
+3.6.1 []
+3.7.1 Ban tổ chức, Cộng tác viên ngày hội NET Day 2019 10 
+3.7.2 CBTTPT_BTC,CTV 10 
+3.7.3 CBTTPT_Giai thuong chung ket 10 
+3.7.4 CBTTPT_Tham gia vong ban ket 10 
+3.7.5 CTV Thanh niên khoẻ đợt 1 10 
+3.7.6 Tham gia thanh khoẻ lần 1 5 
+3.7.7 [HSV] DS BTC,CTV, Mentor Hoi thi TLSV2019 10 
+3.7.8 [HSV] DS Co Vu TLSV2019 5 
+3.7.9 [HSV] DSSV Dat Giai TLSV2019 10 
+3.7.10 [HSV] DSSV Tham gia Hội thi TLSV2019 5 
+3.7.11 [KTMT] Ban tổ chức cuộc thi UIT CAR RACING 2019 10 
+3.7.12 [KTMT] Ban tổ chức, Công tác viên CE DAY 2019 10 
+3.7.13 [MMT&TT] Thi thử TOEIC NetSec Toeic Test 06.2019 (DS BTC,CTV) 10 
+3.7.14 [UMA] Danh sách Cộng tác viên Thanh niên khỏe lần 2 10 
+3.7.15 [UMA] DSSV đạt Thanh niên khỏe lần 2 5 
+3.8.1 Sinh viên lớp 0001 15 
+4.1.1 Chấp hành 15
+4.1.2 Vi phạm -15 
+4.2.1 Cộng tác viên Japan Job Fair 2019 5 
+4.2.2 DOAN TRUONG DHCNTT - HOAT DONG CHUYEN BAN TINH NGUYEN - NGAY 16 THANG 8 NAM 2019 - DH CNTT 5 
+4.2.3 DOAN TRUONG DHCNTT - HOAT DONG CHUYEN BAN TINH NGUYEN - NGAY 8 THANG 8 NAM 2019 - DH CNTT 5 
+4.2.4 DOAN TRUONG DHCNTT - HOAT DONG TINH NGUYEN CHUYEN BAN HOC - NGAY 16 THANG 3 NAM 2019 - DH CNTT 5 
+4.2.5 DOAN TRUONG DHCNTT - HOAT DONG TINH NGUYEN CHUYEN BAN HOC - NGAY 30 THANG 3 NAM 2019 - DH CNTT 5 
+4.2.6 DOAN TRUONG DHCNTT - HOAT DONG TINH NGUYEN CHUYEN MAY TINH - NGAY 24 THANG 3 NAM 2019 - DH CNTT 5 
+4.2.7 DOAN TRUONG DHCNTT - HOAT DONG TINH NGUYEN VE SINH PHONG HOC - NGAY 23 THANG 3 NAM 2019 - DH CNTT 5 
+4.2.8 DOAN TRUONG DHCNTT - TNV CO VU HOI THI ANH SANG SOI DUONG - NGAY 4 THANG 5 NAM 2019 - NHA VAN HOA THANH NIEN.xlsx 5 
+4.2.9 DOAN TRUONG DHCNTT - TNV CO VU HOI THI TAM NHIN XUYEN THE KY - NGAY 12 THANG 5 NAM 2019 - NHA VAN HOA THANH NIEN.xlsx 5 
+4.2.10 DOAN TRUONG DHCNTT - TNV THAM GIA TAP HUAN PCCC - NGAY 25 THANG 4 NAM 2019 - DH CNTT 5 
+4.2.11 DOAN TRUONG DHCNTT - TNV THAP NEN TRI AN - NGAY 27 THANG 4 NAM 2019 - NGHIA TRANG LIET SI THANH PHO.xlsx 5 
+4.2.12 Hỗ trợ ngày hội Tư vấn tuyển sinh 5 
+4.2.13 Huy động lực lượng cổ vũ Hội thao ĐHQG-HCM năm 2019 3 
+4.2.14 Tham gia hoạt động tư vấn tuyển sinh 5 
+4.2.15 Tham gia Japan Job Fair 2019 5 
+4.2.16 [HSV] DS Tham gia Đi bộ đồng hành 2019 5 
+4.2.17 [HSV] DS TNV Hỗ trợ ĐGNL Lần 1 khu vực ngoài trường 4.2019 5 
+4.2.18 [UMA] Tham gia quay video cho trường 5 
+4.3.1 []
+4.4.1 Danh sách SV làm việc tốt 10 
+4.5.1 Chiến sĩ giỏi, đội trưởng xuất sắc, Ban chỉ huy 20 
+4.5.2 Chiến sĩ không hoàn thành nhiệm vụ 0 
+4.5.3 Chiến sĩ tình nguyện 15 
+4.5.4 Tự ý bỏ không có lý do -10 
+4.6.1 Danh sách tham gia hiến máu 10 
+4.6.2 [HTTT] DS-CTV-HienMau_13-03-2019_SanhC 10 
+4.6.3 [HTTT] DSSVHienMau_13-03-2019_SanhC 10 
+4.7.1 KTPM2018_Hoạt động tình nguyện_Đền tưởng niệm Bến Nọc 5 
+4.7.2 PMCL2018.1_Hoạt động tình nguyện_UIT 5 
+4.7.3 PMCL2018.2_Hoạt động tình nguyện_20-04-2019_UIT 5 
+4.7.4 [CTXH] Gio-to-Hung-Vuong_14_04_Suoi-Tien 5 
+4.7.5 [CTXH] Hoi-trai-Noi-Giong-Tien-Rong_14-15_04_Den-Hung 5 
+4.7.6 [CTXH] MungQuocTeThieuNhi_01062019_DongNai 5 
+4.7.7 [CTXH] Tinh-nguyen-thang-03_31_Binh-Chanh 5 
+4.7.8 [HSV] DSSV Tham gia Ngày hội thiếu nhi với 4.0_17-03-2019 5 
+4.7.9 [UMA] DS_Tham_gia_Dự án sức khỏe cộng đồng The Amazing Body_vs_Khoa_Y 5 
+4.7.10 [UMA] THỬ THÁCH UMAer LẦN THỨ 2- NĂM 2019_Dọn_Rác_Cần_Giờ 5 
+4.7.11 [UMA] Training tự vệ THPT chuyên Lương Thế Vinh 5 
+4.7.12 [UMA] TrungThuYeuThuong 5 
+4.8.1 [KH&KTTT] Thứ-7-xanh-22-5-2019-Tham-gia-BTCCTV.xlsx 5 
+4.9.1 MMT_TT_NETDAY 5 
+4.9.2 [HTTT] DS tham gia Tinh Nguyen Suoi Am Trai Tim 5 
+4.9.3 [KHMT] Chuỗi tình nguyện tháng 3 - Mái ấm Nhật Hồng 5 
+4.9.4 [KHMT] Chuỗi tình nguyện tháng 3 - Viếng nghĩa trang liệt sĩ 5 
+4.9.5 [KHMT] Tình nguyện FIRE (DSSV tham gia) 5 
+4.9.6 [MMT&TT] Tình nguyện Challenge for Change 30.03.2019 (DS BTC,CTV) 5 
+4.9.7 [MMT&TT] Tình nguyện Challenge for Change 30.03.2019 (DSSV Tham gia) 5 
+4.9.8 [MMT&TT] Tình nguyện Challenge for Change lần 2 24.04.2019 (DS BTC,CTV) 5 
+4.9.9 [MMT&TT] Tình nguyện Challenge for Change lần 2 24.04.2019 (DSSV Tham gia) 5 
+4.10.1 [CTXH] Danh sách thành viên Đội CTXH HK2 2018-2019 5 
+4.11.1 Danh sách sinh viên khuyết tật 10 
+4.12.1 DOAN TRUONG DHCNTT - TNV CHUONG TRINH TU TIN DEN TRUONG - NGAY 12 THANG 8 NAM 2019 - DH CNTT.xlsx 5 
+4.13.1 []
+4.14.1 Danh sách cập nhật CV online 10 
+5.1.1 QĐ khen thưởng cấp Trung ương, Quốc gia, ĐHQG, TP 10 
+5.1.2 QĐ khen thưởng cấp Trường 10 
+5.2.1 MMT_TT_Tham gia đại hội đoàn khoa NK3 5 
+5.3.1 DOANTRUONG_TAPHUANHK2_KHANHV 5 
+5.4.1 Lớp trưởng hoàn thành tốt nhiệm vụ 10 
+5.5.1 Không phải là cán sự lớp, cán bộ Đoàn-Hội nhưng hoàn thành xuất sắc nhiệm vụ được giao của tổ chức  10 
+5.6.1 Hoàn thành nhiệm vụ 5 
+5.6.2 Hoàn thành Xuất sắc nhiệm vụ 10 
+5.6.3 Không hoàn thành nhiệm vụ -10 
