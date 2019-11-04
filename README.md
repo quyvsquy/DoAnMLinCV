@@ -11,7 +11,7 @@
   | B | Là đường dẫn đến models mạng ... |
   | C | Là đường đẫn đến nơi lưu models đã học được |
   
-  Khi chạy file này thì sẽ xuất hiện thư mục tempLuu. Trong thư mục chứ các file sau: \
+  Khi chạy file này thì sẽ xuất hiện thư mục tempLuu. Trong thư mục chứ các file sau: 
   
   | Command | Description |
   | --- | --- |
