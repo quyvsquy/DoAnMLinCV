@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import sys
+from datetime import datetime
 class DeXuat():
     def __init__(self, outFile, fileData):
         self.outFile = outFile
@@ -67,18 +68,11 @@ class DeXuat():
                 listTempVT2.append(ia)
         return listTemp
 
-
-
-
     def xuLy(self):
         #Xử  lý
         dem = 0
-        dem1 = 0
-        check =0 
-        lan = 0
         mssvHoten, tongDRL, listDiemCacMuc, listDiemTongTieuChi, listTenCacMuc, listTenTieuChi  = self.layDiemVaTen()
         listTatCaDanhSachHoatDong = self.docListTatCaHoatDong()
-        tempXuat = []
         listCacMucCoTheThamGia = []
         print(mssvHoten)
         print(tongDRL)
@@ -93,29 +87,90 @@ class DeXuat():
                     print("Bạn có thể tham gia các hoạt động: ")
                     for ib in range(len(listDiemCacMuc[ia])):
                         if int(listTenCacMuc[ia][ib].split()[-1].replace("[", '').replace("]", "")) > int(listDiemCacMuc[ia][ib]):
-                            # dem1 = int(listTenCacMuc[ia][ib].split()[-1].replace("[", '').replace("]", "")) - int(listDiemCacMuc[ia][ib])
-                            # print(dem1)
-                            # listCacMucCoTheThamGia.append(str(ia + 1)+ " " + str(ib +1))
-                            dem1 = 0
-                            for ic in listTatCaDanhSachHoatDong[ia][ib]:
-                                # if not ic.isdigit() and ic[0] != "-":
-                                dem1 += int(ic.split()[-1])
-                                lan +=1
-                                if dem1 <= dem:
-                                    tempXuat.append(ic)
-                                    check = 0
-                                else:
-                                    if lan ==1:
-                                        tempXuat.append(ic)
-                                    check = 1
+                            listCacMucCoTheThamGia += listTatCaDanhSachHoatDong[ia][ib]
+                    if ia == 4:
+                        if len(listCacMucCoTheThamGia) == 0:
+                            for ib in listTatCaDanhSachHoatDong[ia]:
+                                listCacMucCoTheThamGia += ib
+                    tempList1 = [] #hoat dong co tgian
+                    tempList2 = [] #hoat dong khong tgian
+                    for id in listCacMucCoTheThamGia:
+                        if id.split()[-1] != "[]" and id.split()[-1] != "[ ]":
+                            if not (id.split()[-1].isdigit()  and int(id.split()[-1]) < 12 and id.split()[-2].isdigit()  and int(id.split()[-2]) < 12):
+                                tempList2.append(id)
+                            else:
+                                tempList1.append(id)
+                    #Hoat dong theo thoi gian
+                    danhSachThang = []
+                    for id in tempList1:
+                        danhSachThang.append(int(id.split()[-1]))
+                    # print(danhSachThang)
+
+                    month =  datetime.now().month
+                    # print(danhSachThang)
+                    tempInt = self.timHoatDongTrongThangPhuHop(dem, month, danhSachThang, tempList1)
+                    if tempInt == -1 or tempInt == -2:
+                        for id in range(1,12):
+                            if id + month > 12: 
+                                tempInt1 = self.timHoatDongTrongThangPhuHop(dem, id + month - 12, danhSachThang, tempList1)
+                                if tempInt1  != -1 and tempInt1 != -2:
                                     break
-                            # print(listTenCacMuc[ia][ib].split()[-1].replace("[", '').replace("]", ""))
-                            if check == 1:
-                                for id in tempXuat:
-                                    print(id.replace(id.split()[-1], "").replace(id.split()[0], ""))
-                                tempXuat = []
-                                dem1=0
-                                # check = 0
-                                break
+                            else:
+                                tempInt2 = self.timHoatDongTrongThangPhuHop(dem, id + month , danhSachThang, tempList1)
+                                if tempInt2 != -1 and tempInt2 != -2:
+                                    break
+
+                     #Hoat dong k tgian
+                    print("Hoặc bạn có thể gia các hoạt động sau: ")
+                    self.timHoatDongTheoNam(dem,tempList2)
                     print("\n")
-DeXuat(sys.argv[1], sys.argv[2])
+    def timHoatDongTheoNam(self, diem, tempList2):
+        dem1 = 0
+        tempListHoatDong = []
+        lan = 0
+        check = 0
+
+        for ic in tempList2:
+            if int(ic.split()[-1])  > 0:
+                # print(ic)
+                dem1 += int(ic.split()[-1])
+                lan +=1
+                if dem1 <= diem:
+                    tempListHoatDong.append(ic)
+                    check = 0
+                else:
+                    if lan ==1:
+                        tempListHoatDong.append(ic)
+                    dem2 = 0
+                    for ia in tempListHoatDong:
+                        dem2 += int(ia.split()[-1])
+                    if dem2 < diem:
+                        tempListHoatDong.append(ic)
+                    check = 1
+                    break
+        if check == 1:
+            for id in tempListHoatDong:
+                print(id)
+        else:
+            for id in tempListHoatDong:
+                print(id)
+            return -2
+    def timHoatDongTrongThangPhuHop(self, diem, thang, danhSachThang, tempList1):
+        if thang not in danhSachThang:
+            return -1
+        else:
+            print("Bạn có thể tham gia các hoạt động sau vào tháng", str(thang) + ":")
+            tempListHoatDong = []
+            for ia, ib in enumerate(danhSachThang):
+                if ib == thang:
+                    # print(tempList1[ia].split()[0])
+                    tempString = tempList1[ia][:-1]
+                    if tempString[-1].isdigit():
+                        tempString = tempString[:-1]
+                    tempListHoatDong.append(tempString)
+            if self.timHoatDongTheoNam(diem, tempListHoatDong) == -2:
+                return -2                
+
+
+
+# DeXuat(sys.argv[1], sys.argv[2]).xuLy()

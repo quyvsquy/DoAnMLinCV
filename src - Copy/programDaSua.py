@@ -72,5 +72,5 @@ def main(path):
             fullName = listNameofDataSet[indexName[0]].split('_')[-1]
             print(fullName)
             return fullName
-main(sys.argv[1])
+# main(sys.argv[1])
 # print(main(sys.argv[1]))
