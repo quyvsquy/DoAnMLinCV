@@ -40,7 +40,7 @@
   | C | Là đường đẫn đến nơi lưu models đã học được |
   
 # Để chạy toàn bộ hệ thống từ ảnh ra gợi ý hoạt động
-  `python3 GetHtml.py --u A --p B --l C` \
+  `python3 GetHtml.py --u A --p B --l C --h D` \
   Ví dụ: \
   `python3 GetHtml.py --u 17521234 --p 123456789 -- l ../DataSet/FaceData/Nguyen.jpg` \
   Trong đó: 
@@ -50,6 +50,7 @@
   | --u A | A là username đăng nhập đrl có (có quyền bí thư / lớp trưởng) |
   | --p B | B là password đăng nhập đrl có (có quyền bí thư / lớp trưởng |
   | --l C | C là đường dẫn đến 1 ảnh muốn thử |
+  | --h D | D là số của học kỳ. Ví dụ học kỳ hiện tại là 0, học kỳ trước đó 1 học kỳ là 1. Tương tự cho các học kỳ còn lại
   
 
   
