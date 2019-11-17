@@ -22,7 +22,7 @@ def main(path):
     FACTOR = 0.709
     INPUT_IMAGE_SIZE = 160
     FACENET_MODEL_PATH = '../ModelsPD/20180402-114759.pb'
-    CLASSIFIER_PATH = '../Models/facePKL1.pkl'
+    CLASSIFIER_PATH = '../Models/facePKLLinerSVC0.pkl'
 
     with tf.Graph().as_default():
         # Set up GPU

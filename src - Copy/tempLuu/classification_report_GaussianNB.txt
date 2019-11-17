@@ -1,0 +1,160 @@
+                            precision    recall  f1-score   support
+
+    0_DoanNgocTai_16521045     1.0000    1.0000    1.0000        11
+       1_LeTuTuan_18521598     1.0000    1.0000    1.0000         8
+  2_NguyenHoangAn_18520430     1.0000    1.0000    1.0000         9
+3_NguyenHongQuang_18521297     1.0000    1.0000    1.0000        12
+ 4_NguyenNgocDien_19521359     1.0000    1.0000    1.0000         5
+5_NguyenQuangHieu_18520748     1.0000    1.0000    1.0000         9
+ 6_NguyenQuocDat__19521338     1.0000    1.0000    1.0000        15
+7_PhanHoangNguyen_18521163     1.0000    1.0000    1.0000        11
+  8_TranDucPhiLam_19521741     1.0000    1.0000    1.0000        10
+
+                  accuracy                         1.0000        90
+                 macro avg     1.0000    1.0000    1.0000        90
+              weighted avg     1.0000    1.0000    1.0000        90
+
+                            precision    recall  f1-score   support
+
+    0_DoanNgocTai_16521045     1.0000    1.0000    1.0000        13
+       1_LeTuTuan_18521598     1.0000    1.0000    1.0000         8
+  2_NguyenHoangAn_18520430     1.0000    1.0000    1.0000        11
+3_NguyenHongQuang_18521297     1.0000    1.0000    1.0000         8
+ 4_NguyenNgocDien_19521359     1.0000    1.0000    1.0000         8
+5_NguyenQuangHieu_18520748     1.0000    1.0000    1.0000        12
+ 6_NguyenQuocDat__19521338     1.0000    1.0000    1.0000        11
+7_PhanHoangNguyen_18521163     1.0000    1.0000    1.0000         9
+  8_TranDucPhiLam_19521741     1.0000    1.0000    1.0000        10
+
+                  accuracy                         1.0000        90
+                 macro avg     1.0000    1.0000    1.0000        90
+              weighted avg     1.0000    1.0000    1.0000        90
+
+                            precision    recall  f1-score   support
+
+    0_DoanNgocTai_16521045     1.0000    1.0000    1.0000         8
+       1_LeTuTuan_18521598     1.0000    1.0000    1.0000         6
+  2_NguyenHoangAn_18520430     1.0000    1.0000    1.0000         8
+3_NguyenHongQuang_18521297     1.0000    1.0000    1.0000        11
+ 4_NguyenNgocDien_19521359     1.0000    1.0000    1.0000        14
+5_NguyenQuangHieu_18520748     1.0000    1.0000    1.0000         8
+ 6_NguyenQuocDat__19521338     1.0000    1.0000    1.0000        11
+7_PhanHoangNguyen_18521163     1.0000    1.0000    1.0000        12
+  8_TranDucPhiLam_19521741     1.0000    1.0000    1.0000        12
+
+                  accuracy                         1.0000        90
+                 macro avg     1.0000    1.0000    1.0000        90
+              weighted avg     1.0000    1.0000    1.0000        90
+
+                            precision    recall  f1-score   support
+
+    0_DoanNgocTai_16521045     1.0000    1.0000    1.0000        10
+       1_LeTuTuan_18521598     1.0000    1.0000    1.0000         8
+  2_NguyenHoangAn_18520430     1.0000    1.0000    1.0000         8
+3_NguyenHongQuang_18521297     1.0000    1.0000    1.0000         6
+ 4_NguyenNgocDien_19521359     1.0000    1.0000    1.0000        14
+5_NguyenQuangHieu_18520748     1.0000    1.0000    1.0000        12
+ 6_NguyenQuocDat__19521338     1.0000    1.0000    1.0000         6
+7_PhanHoangNguyen_18521163     1.0000    1.0000    1.0000        11
+  8_TranDucPhiLam_19521741     1.0000    1.0000    1.0000        15
+
+                  accuracy                         1.0000        90
+                 macro avg     1.0000    1.0000    1.0000        90
+              weighted avg     1.0000    1.0000    1.0000        90
+
+                            precision    recall  f1-score   support
+
+    0_DoanNgocTai_16521045     1.0000    1.0000    1.0000        12
+       1_LeTuTuan_18521598     1.0000    1.0000    1.0000        12
+  2_NguyenHoangAn_18520430     1.0000    1.0000    1.0000         6
+3_NguyenHongQuang_18521297     1.0000    1.0000    1.0000        15
+ 4_NguyenNgocDien_19521359     1.0000    1.0000    1.0000         9
+5_NguyenQuangHieu_18520748     1.0000    1.0000    1.0000         9
+ 6_NguyenQuocDat__19521338     1.0000    1.0000    1.0000        11
+7_PhanHoangNguyen_18521163     1.0000    1.0000    1.0000         6
+  8_TranDucPhiLam_19521741     1.0000    1.0000    1.0000        10
+
+                  accuracy                         1.0000        90
+                 macro avg     1.0000    1.0000    1.0000        90
+              weighted avg     1.0000    1.0000    1.0000        90
+
+                            precision    recall  f1-score   support
+
+    0_DoanNgocTai_16521045     1.0000    1.0000    1.0000         5
+       1_LeTuTuan_18521598     1.0000    1.0000    1.0000        14
+  2_NguyenHoangAn_18520430     1.0000    1.0000    1.0000        17
+3_NguyenHongQuang_18521297     1.0000    1.0000    1.0000         8
+ 4_NguyenNgocDien_19521359     1.0000    1.0000    1.0000        11
+5_NguyenQuangHieu_18520748     1.0000    1.0000    1.0000        10
+ 6_NguyenQuocDat__19521338     1.0000    1.0000    1.0000         5
+7_PhanHoangNguyen_18521163     1.0000    1.0000    1.0000        10
+  8_TranDucPhiLam_19521741     1.0000    1.0000    1.0000        10
+
+                  accuracy                         1.0000        90
+                 macro avg     1.0000    1.0000    1.0000        90
+              weighted avg     1.0000    1.0000    1.0000        90
+
+                            precision    recall  f1-score   support
+
+    0_DoanNgocTai_16521045     1.0000    1.0000    1.0000        13
+       1_LeTuTuan_18521598     1.0000    1.0000    1.0000         7
+  2_NguyenHoangAn_18520430     1.0000    1.0000    1.0000        13
+3_NguyenHongQuang_18521297     1.0000    1.0000    1.0000        11
+ 4_NguyenNgocDien_19521359     1.0000    1.0000    1.0000         9
+5_NguyenQuangHieu_18520748     1.0000    1.0000    1.0000        12
+ 6_NguyenQuocDat__19521338     1.0000    1.0000    1.0000         9
+7_PhanHoangNguyen_18521163     1.0000    1.0000    1.0000         8
+  8_TranDucPhiLam_19521741     1.0000    1.0000    1.0000         8
+
+                  accuracy                         1.0000        90
+                 macro avg     1.0000    1.0000    1.0000        90
+              weighted avg     1.0000    1.0000    1.0000        90
+
+                            precision    recall  f1-score   support
+
+    0_DoanNgocTai_16521045     1.0000    1.0000    1.0000         9
+       1_LeTuTuan_18521598     1.0000    1.0000    1.0000        12
+  2_NguyenHoangAn_18520430     1.0000    1.0000    1.0000         9
+3_NguyenHongQuang_18521297     1.0000    1.0000    1.0000        14
+ 4_NguyenNgocDien_19521359     1.0000    1.0000    1.0000         9
+5_NguyenQuangHieu_18520748     1.0000    1.0000    1.0000        12
+ 6_NguyenQuocDat__19521338     1.0000    1.0000    1.0000         8
+7_PhanHoangNguyen_18521163     1.0000    1.0000    1.0000         9
+  8_TranDucPhiLam_19521741     1.0000    1.0000    1.0000         8
+
+                  accuracy                         1.0000        90
+                 macro avg     1.0000    1.0000    1.0000        90
+              weighted avg     1.0000    1.0000    1.0000        90
+
+                            precision    recall  f1-score   support
+
+    0_DoanNgocTai_16521045     1.0000    1.0000    1.0000        11
+       1_LeTuTuan_18521598     1.0000    1.0000    1.0000        19
+  2_NguyenHoangAn_18520430     1.0000    1.0000    1.0000        11
+3_NguyenHongQuang_18521297     1.0000    1.0000    1.0000         6
+ 4_NguyenNgocDien_19521359     1.0000    1.0000    1.0000        10
+5_NguyenQuangHieu_18520748     1.0000    1.0000    1.0000         8
+ 6_NguyenQuocDat__19521338     1.0000    1.0000    1.0000        11
+7_PhanHoangNguyen_18521163     1.0000    1.0000    1.0000        10
+  8_TranDucPhiLam_19521741     1.0000    1.0000    1.0000         4
+
+                  accuracy                         1.0000        90
+                 macro avg     1.0000    1.0000    1.0000        90
+              weighted avg     1.0000    1.0000    1.0000        90
+
+                            precision    recall  f1-score   support
+
+    0_DoanNgocTai_16521045     1.0000    1.0000    1.0000         8
+       1_LeTuTuan_18521598     1.0000    1.0000    1.0000         6
+  2_NguyenHoangAn_18520430     1.0000    1.0000    1.0000         8
+3_NguyenHongQuang_18521297     1.0000    1.0000    1.0000         9
+ 4_NguyenNgocDien_19521359     1.0000    1.0000    1.0000        11
+5_NguyenQuangHieu_18520748     1.0000    1.0000    1.0000         8
+ 6_NguyenQuocDat__19521338     1.0000    1.0000    1.0000        13
+7_PhanHoangNguyen_18521163     1.0000    1.0000    1.0000        14
+  8_TranDucPhiLam_19521741     1.0000    1.0000    1.0000        13
+
+                  accuracy                         1.0000        90
+                 macro avg     1.0000    1.0000    1.0000        90
+              weighted avg     1.0000    1.0000    1.0000        90
+
