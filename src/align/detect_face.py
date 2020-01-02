@@ -33,7 +33,8 @@ import tensorflow as tf
 #from math import floor
 import cv2
 import os
-
+# np_load_old = np.load
+# np.load = lambda *a,**k: np_load_old(*a, allow_pickle=True, **k)
 def layer(op):
     """Decorator for composable network layers."""
 
@@ -780,3 +781,4 @@ def imresample(img, sz):
 #                 im_data[a1,a2,a3] = img[int(floor(a1*dy)),int(floor(a2*dx)),a3]
 #     return im_data
 
+# np.load = np_load_old
