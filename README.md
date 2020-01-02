@@ -42,7 +42,7 @@
 # Để chạy toàn bộ hệ thống từ ảnh ra gợi ý hoạt động
   `python3 GetHtml.py --u A --p B --l C --h D` \
   Ví dụ: \
-  `python3 GetHtml.py --u 17521234 --p 123456789 -- l ../DataSet/FaceData/Nguyen.jpg` \
+  `python3 GetHtml.py --u 17521234 --p 123456789 --l ../DataSet/FaceData/Nguyen.jpg` \
   Trong đó: 
   
   | Command | Description |
